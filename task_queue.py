@@ -54,3 +54,4 @@ s = my_queue()
 s.push(4)
 s.push(2)
 print(s.pop())
+

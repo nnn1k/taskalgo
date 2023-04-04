@@ -7,7 +7,7 @@ class my_stack:
         self.stack.append(el)
 
     def pop(self):
-        return self.stack.pop(-1)
+        return self.stack.pop()
 
     def size(self):
         return len(self.stack)
